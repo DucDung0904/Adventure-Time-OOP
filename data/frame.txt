@@ -1,0 +1,590 @@
+
+82
+
+idle1
+image data/sprite.png
+x 88
+y 50
+w 45
+h 60
+
+idle2
+image data/sprite.png
+x 186
+y 50
+w 45
+h 60
+
+idle3
+image data/sprite.png
+x 285
+y 50
+w 45
+h 60
+
+idle4
+image data/sprite.png
+x 384
+y 50
+w 45
+h 60
+
+idle5
+image data/sprite.png
+x 482
+y 50
+w 45
+h 60
+
+
+idle6
+image data/sprite.png
+x 581
+y 50
+w 45
+h 60
+
+
+idle7
+image data/sprite.png
+x 674
+y 50
+w 45
+h 60
+
+
+idle8
+image data/sprite.png
+x 778
+y 50
+w 45
+h 60
+
+
+idle9
+image data/sprite.png
+x 776
+y 65
+w 42
+h 60
+
+
+
+
+
+
+
+run1
+image data/sprite.png
+x 81
+y 142
+w 48
+h 60
+
+run2
+image data/sprite.png
+x 177
+y 142
+w 48
+h 60
+
+run3
+image data/sprite.png
+x 375
+y 142
+w 48
+h 60
+
+run4
+image data/sprite.png
+x 474
+y 142
+w 48
+h 60
+
+
+
+jump1
+image data/sprite.png
+x 86
+y 235
+w 47
+h 59
+
+behurt1
+image data/sprite.png
+x 78
+y 333
+w 50
+h 60
+
+behurt2
+image data/sprite.png
+x 179
+y 325
+w 47
+h 69
+
+death1
+image data/sprite.png
+x 180
+y 425
+w 47
+h 57
+
+death2
+image data/sprite.png
+x 289
+y 458
+w 56
+h 26
+
+landing1
+image data/sprite.png
+x 86
+y 235
+w 47
+h 59
+
+item1
+image data/coins.png
+x 17
+y 19
+w 30
+h 30
+
+item2
+image data/coins.png
+x 56
+y 19
+w 30
+h 30
+
+item3
+image data/coins.png
+x 95
+y 19
+w 19
+h 28
+
+item4
+image data/coins.png
+x 137
+y 19
+w 15
+h 28
+
+item5
+image data/coins.png
+x 172
+y 19
+w 20
+h 28
+
+item6
+image data/coins.png
+x 206
+y 19
+w 22
+h 30
+
+item7
+image data/coins.png
+x 241
+y 19
+w 30
+h 30
+
+plantgun1
+image data/plantgun.png
+x 50
+y 46
+w 48
+h 41
+
+plantgun2
+image data/plantgun.png
+x 127
+y 46
+w 48
+h 41
+
+plantgun3
+image data/plantgun.png
+x 203
+y 46
+w 48
+h 41
+
+bullet1
+image data/plantgun.png
+x 81
+y 346
+w 31
+h 18
+
+
+hatdevil1
+image data/hatdevil.png
+x 78
+y 91
+w 41
+h 41
+
+hatdevil2
+image data/hatdevil.png
+x 145
+y 87
+w 41
+h 41
+
+hatdevil3
+image data/hatdevil.png
+x 214
+y 85
+w 41
+h 41
+
+hatdevil4
+image data/hatdevil.png
+x 282
+y 85
+w 41
+h 41
+
+hatdevil5
+image data/hatdevil.png
+x 351
+y 91
+w 41
+h 41
+
+hatdevil6
+image data/hatdevil.png
+x 419
+y 91
+w 41
+h 41
+
+tiled1
+image data/tileset.png
+x 44
+y 30
+w 30
+h 30
+
+tiled2
+image data/tileset.png
+x 58
+y 47
+w 30
+h 30
+
+tiled3
+image data/tileset.png
+x 84
+y 47
+w 30
+h 30
+
+tiled4
+image data/tileset.png
+x 35
+y 73
+w 30
+h 30
+
+tiled5
+image data/tileset.png
+x 52
+y 76
+w 30
+h 30
+
+tiled6
+image data/tileset.png
+x 82
+y 71
+w 30
+h 30
+
+tiled7
+image data/tileset.png
+x 238
+y 72
+w 30
+h 30
+
+tiled8
+image data/tileset.png
+x 33
+y 91
+w 30
+h 30
+
+tiled9
+image data/tileset.png
+x 242
+y 138
+w 30
+h 30
+
+tiled10
+image data/tileset.png
+x 118
+y 98
+w 30
+h 30
+
+tiled11
+image data/tileset.png
+x 335
+y 140
+w 30
+h 30
+
+tiled12
+image data/tileset.png
+x 335
+y 171
+w 30
+h 30
+
+tiled13
+image data/tileset.png
+x 118
+y 99
+w 30
+h 30
+
+tiled14
+image data/tileset.png
+x 267
+y 67
+w 30
+h 30
+
+tiled15
+image data/tileset.png
+x 9
+y 225
+w 30
+h 30
+
+tiled16
+image data/tileset.png
+x 184
+y 286
+w 30
+h 30
+
+tiled17
+image data/tileset.png
+x 88
+y 225
+w 30
+h 30
+
+tiled18
+image data/tileset.png
+x 115
+y 225
+w 30
+h 30
+
+tiled19
+image data/tileset.png
+x 145
+y 225
+w 30
+h 30
+
+tiled20
+image data/tileset.png
+x 145
+y 245
+w 30
+h 30
+
+tiled21
+image data/tileset.png
+x 145
+y 278
+w 30
+h 30
+
+tiled22
+image data/tileset.png
+x 88
+y 245
+w 30
+h 30
+
+tiled23
+image data/tileset.png
+x 118
+y 245
+w 30
+h 30
+
+tiled24
+image data/tileset.png
+x 103
+y 225
+w 30
+h 30
+
+tiled25
+image data/tileset.png
+x 246
+y 234
+w 30
+h 30
+
+tiled26
+image data/tileset.png
+x 276
+y 234
+w 30
+h 30
+
+tiled27
+image data/tileset.png
+x 246
+y 262
+w 30
+h 30
+
+tiled28
+image data/tileset.png
+x 225
+y 328
+w 30
+h 30
+
+tiled29
+image data/tileset.png
+x 256
+y 328
+w 30
+h 30
+
+tiled30
+image data/tileset.png
+x 296
+y 328
+w 30
+h 30
+
+tiled31
+image data/tileset.png
+x 411
+y 152
+w 30
+h 30
+
+
+tiled32
+image data/tileset.png
+x 411
+y 179
+w 30
+h 30
+
+tiled33
+image data/tileset.png
+x 411
+y 209
+w 30
+h 30
+
+tiled34
+image data/tileset.png
+x 411
+y 238
+w 30
+h 30
+
+tiled35
+image data/tileset.png
+x 411
+y 269
+w 30
+h 30
+
+tiled36
+image data/tileset.png
+x 411
+y 301
+w 30
+h 30
+
+tiled37
+image data/tileset.png
+x 439
+y 152
+w 30
+h 30
+
+tiled38
+image data/tileset.png
+x 439
+y 179
+w 30
+h 30
+
+tiled39
+image data/tileset.png
+x 439
+y 209
+w 30
+h 30
+
+tiled40
+image data/tileset.png
+x 439
+y 238
+w 30
+h 30
+
+tiled41
+image data/tileset.png
+x 439
+y 269
+w 30
+h 30
+
+tiled42
+image data/tileset.png
+x 439
+y 301
+w 30
+h 30
+
+tiled43
+image data/tileset.png
+x 321
+y 245
+w 30
+h 30
+
+tiled44
+image data/tileset.png
+x 321
+y 272
+w 30
+h 30
+
+tiled45
+image data/tileset.png
+x 351
+y 245
+w 30
+h 30
+
+tiled46
+image data/tileset.png
+x 351
+y 272
+w 30
+h 30
